@@ -29,7 +29,7 @@ Projeto front-end criado para ajudar um amigo com seu primeiro jogo (feito pra z
   
   Hospedei o site em um serviço de host gratuito, podendo ser tirado do ar por inatividade.
   
-     A página uploadada aqui ainda está sem o redirecionamento para o download
+     A página uploadada aqui está com o redirecionamento para a página github do game
   
   
 ### Design
