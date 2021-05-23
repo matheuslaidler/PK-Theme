@@ -1,0 +1,199 @@
+* { padding: 0; margin: 0; box-sizing: border-box; }
+html, body {
+    font-family: "Open sans";
+    height: 100%;
+}
+a {
+    text-decoration: none;
+}
+
+
+/* Info section */
+.info {
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+    width: 100%;
+    height: 704px;
+    background-image: url(images/background.jpg);
+    background-position: center top;    
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+
+.info p, .info h1 {
+    color: #fff;
+    font-style: italic;
+}
+
+.info p { font-weight: 300; }
+
+.info .info-container {
+    margin-top: 10px;
+}
+.info .info-box {
+    width: 275px;
+    height: 114px;
+    background: #fff;
+    padding: 10px;
+    display: inline-block;
+}
+.info .info-box .info-left {
+    float: left;
+    width: 65%;
+}
+.info .info-left {
+    float: left;
+    width: 155px;
+}
+.clearfix:after, .clearfix:before {
+    visibility: hidden;
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+}
+.info .info-box .info-tag {
+    background: black;
+    color: #fff;
+    font-size: 14px;
+    padding: 5px 10px;
+}
+
+.info .info-box .info-name {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.info .info-box .info-detail {
+    padding-top: 10px;
+    color: #333;
+    line-height: 20px;
+}
+
+.pika-place {
+    position: absolute;
+    background: url(images/pika.png) -70% top no-repeat;
+    width: 900px;
+    height: 654px;
+   
+    z-index: 1;
+    overflow: hidden;    
+}
+
+.baixar {
+    position: relative;
+    width: 100%;
+    height: 380px;
+    background-image: url(images/3.jpg);
+    background-position: center top;    
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    color: #fff;
+}
+
+.baixar-container {
+    position: relative;
+}
+
+.baixar .right > h2, .baixar .right > p {
+    text-align: right;
+}
+.baixar .baixar-container{
+    background: rgba(0,0,0,.4);
+    width: 400px;
+    height: auto;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.baixar .baixar-form {
+    position: relative;
+    margin-top: 20px;
+}
+
+.baixar .form-group {
+    margin: auto;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.label {
+    display: block;
+    text-align: left;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+.baixar .form-msg {
+    text-align: center;
+    left: -50px;
+    color: red;
+    
+}
+
+.form-control[type="button"] {
+    width: 35%;
+    padding: 5px;
+    margin: auto;
+    background: #ffd52f;
+    border-top: 1px solid rgba(255,255,255, .5);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    color: #222;
+    font-family: "Aerial";
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 5px;
+    font-style: italic;
+
+}
+
+
+h2 {
+    font-size: 28px;
+    font-style: bold;
+}
+
+.baixar .btn {
+    display: block;
+    padding: 15px;
+    border: none;
+    font-family: "Open sans";
+    font-weight: 500;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    background: #fff;
+    cursor: pointer;
+    font-style: italic;
+}
+
+.left {
+    float: left;
+    height: 500px;
+    width: 50%;
+}
+.right {
+    float: right;
+    width: 50%;
+}
+
+.container {
+    position: relative;
+    width: 960px;
+    margin: auto;
+}
+
