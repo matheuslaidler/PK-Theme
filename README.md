@@ -35,9 +35,29 @@ Projeto front-end criado para ajudar um amigo com seu primeiro jogo (feito pra z
 ### Design
 
   Fiz todo o design utilizando o photoshop, podendo ter sido feito também através do gimp. Ainda penso se devo disponibilizar os arquivos .psd futuramente.
-  A logo se baseia na zoeira com a proposta do jogo, sendo um orgão reprodutor masculino desenhado em um joystick, com um escuto circular e o nome do jogo.
+  A logo se baseia na zoeira com a proposta do jogo, sendo um orgão reprodutor masculino colocado em uma base de um joystick, com um escuto circular de fundo e o nome do jogo.
   As imagens, como a logo, tal qual o próprio website, são de minha autoria, então se for reutilizar, favor, deixar os créditos.
   
 ### Prévia do projeto
   
-  ![2021-05-22 22 08 13  c9a86eb733c3](https://user-images.githubusercontent.com/76860503/119244778-4be1df00-bb4a-11eb-8479-e344b97cb400.png)
+  - Sites prévia do tema:
+  
+  http://playpykka.rf.gd
+  
+  https://matheuslaidler.github.io/Site-Download-Game/
+  
+  - Projeto do game:
+  Disponível ao clicar no botão de download;
+  
+  https://github.com/Polig-dev/Pykka-DoNotTouchTheCock-
+  
+  - Imagem de prévia (blur para evitar problemas):
+  
+  ![prévia](https://user-images.githubusercontent.com/76860503/119270842-1b935280-bbd5-11eb-83b7-829c136c1303.jpg)
+ *(WebPage - Pykka:Do not touch the cock | imagens com censura)*
+  
+### Créditos
+- Autor> Matheus Laidler
+- Projeto> Game Front-End Download Theme
+- Game> PYKKA: DO NOT TOUCH THE COCK
+- Licença> MIT 
