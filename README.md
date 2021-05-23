@@ -22,6 +22,7 @@ Projeto front-end criado para ajudar um amigo com seu primeiro jogo (feito pra z
  ### Mais sobre seu desenvolvimento:
   
   Eu fiz de forma a colocar um tipo de 'botão' (ainda n clicável, está acima do botão de download, tendo o nome do jogo) que pode ter um objetivo de redirecionar para uma possível página do game, que teria as noticias de atualizações, imagens, videos, tutoriais, noticias e mais informações gerais sobre o jogo. Porém, meu amigo decidiu que não era necessário, já sendo suficiente essa página com as informações contidas nele. Já que a ideia do jogo era ser algo totalmente simplista e cringe.
+  
   ![download](https://user-images.githubusercontent.com/76860503/119244815-ac711c00-bb4a-11eb-9a51-93735aa5911a.png)
   
   Esse redirecionamento poderia ser feito instalando um wordpress na hospedagem, criando essa página complementar para o jogo, onde teria todas as informações e atualizações do game, mas ainda deixando a outra página como inicial, pois é bastante objetiva e introdutória, já servindo seu papel. A nova página seria mais para quem já é um jogador.
