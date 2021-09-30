@@ -41,18 +41,14 @@ Projeto front-end criado para ajudar um amigo com seu primeiro jogo (feito pra z
 ### Prévia do projeto
   
   - Sites prévia do tema:
-  
-  http://playpykka.rf.gd
-  
   https://matheuslaidler.github.io/Site-Download-Game/
   
   - Projeto do game:
   Disponível ao clicar no botão de download;
-  
   https://github.com/Polig-dev/Pykka-DoNotTouchTheCock-
   
   - Imagem de prévia (blur para evitar problemas):
-  
+
   ![prévia](https://user-images.githubusercontent.com/76860503/119270842-1b935280-bbd5-11eb-83b7-829c136c1303.jpg)
  *(WebPage - Pykka:Do not touch the cock | imagens com censura)*
   
