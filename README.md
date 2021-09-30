@@ -1,4 +1,4 @@
-# Site-Download-Game
+# PK-Theme: Basic Site Download Game Test
 ### GAME PYKKA - DOWNLOAD PAGE
 Front-End Project to help my friend with his first game project.
 
